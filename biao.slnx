@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="biao/biao.vcxproj" Id="8d83fe36-0ee4-4657-a3c0-799f86e3ffc2" />
+</Solution>
